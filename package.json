@@ -1,0 +1,25 @@
+{
+  "name": "calendar",
+  "version": "1.0.0",
+  "description": "a fast calendar web app. Speed is archieved through text / command / large number input instead of scrolling clicking and searching through a bloated gui",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "nodemon ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Proxtx/calendar.git"
+  },
+  "author": "Proxtx",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Proxtx/calendar/issues"
+  },
+  "homepage": "https://github.com/Proxtx/calendar#readme",
+  "dependencies": {
+    "@proxtx/config": "^1.0.2",
+    "@proxtx/framework": "^1.5.3",
+    "@proxtx/material": "^1.1.6"
+  }
+}
